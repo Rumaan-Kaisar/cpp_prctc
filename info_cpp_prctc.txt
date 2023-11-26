@@ -1,0 +1,49 @@
+
+H. Sldt : Teach yourself C++ 
+S. Rao : 1H each day prctc
+Outline, Hubbard (2000 ed)
+Goal Kicker : professional
+Lippman : C++ Primer
+Anthony Williams : C++ Concurrency in Action
+Andrew Koenig : Accelerated C++
+Fedor G. Pikus : Hands-On Design Patterns with C++
+
+
+
+
+
+Absolutely, learning C++ through real-world projects is a fantastic way to solidify your understanding of the language. Here are some books that focus on practical, project-based learning:
+
+1. **"Accelerated C++" by Andrew Koenig and Barbara E. Moo**
+   - **Focus:** A fast-paced introduction to C++ with a practical approach.
+   - **Why It's Good:** It covers a lot of ground quickly and includes exercises and projects to reinforce learning.
+
+2. **"C++ Primer" by Stanley B. Lippman, Josée Lajoie, and Barbara E. Moo**
+   - **Focus:** Comprehensive coverage of C++ for beginners to intermediate level.
+   - **Why It's Good:** It not only covers the language but also practical programming principles and techniques.
+
+3. **"Programming: Principles and Practice Using C++" by Bjarne Stroustrup**
+   - **Focus:** Written by the creator of C++, it introduces programming and C++ in a broader context.
+   - **Why It's Good:** Emphasizes good programming practices and includes practical projects.
+
+4. **"Effective C++: 55 Specific Ways to Improve Your Programs and Designs" by Scott Meyers**
+   - **Focus:** Offers practical advice on writing better C++ code.
+   - **Why It's Good:** Though not project-based, it's an excellent resource to enhance your C++ skills.
+
+5. **"C++ Concurrency in Action" by Anthony Williams**
+   - **Focus:** Project-based learning for concurrent programming in C++.
+   - **Why It's Good:** Covers one of the more advanced and practical aspects of C++ programming.
+
+6. **"Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides**
+   - **Focus:** While not specifically a C++ book, it's crucial for understanding design patterns, which are extensively used in C++.
+   - **Why It's Good:** Helps you understand how to structure your code in a real-world, maintainable way.
+
+7. **"Game Programming in C++: Creating 3D Games" by Sanjay Madhav**
+   - **Focus:** Project-based learning for game development in C++.
+   - **Why It's Good:** Teaches C++ through the lens of game development, making it engaging and practical.
+
+8. **"Hands-On Design Patterns with C++" by Fedor G. Pikus**
+   - **Focus:** Practical application of design patterns in C++.
+   - **Why It's Good:** It's hands-on and focuses on applying design patterns to solve real-world problems.
+
+Remember, while books are a great resource, supplementing your learning with hands-on coding, personal projects, and engagement with a coding community or mentor can greatly enhance your understanding and skills.
